@@ -16,6 +16,44 @@ https://github.com/who-knows-inc/whoknows_variations
 
 The main branch is the same as what we copied from the server. 
 
+---
+
+## Install the Dependencies
+
+The dependencies have been defined in `requirements.txt`. 
+
+You wouldn't want to install the dependencies globaly. 
+
+If you run other Python projects they would conflict with the legacy dependencies of `whoknows`. 
+
+Python solves this with virtual environments. To create one (all platforms):
+
+```bash
+$ python -m venv .venv
+```
+
+And to activate it (*nix users):
+
+```bash
+$ source ./.venv/bin/activate
+```
+
+Windows users:
+
+```powershell
+$ .\.venv\Scripts\activate
+```
+
+Then install the dependencies defined in `requirements.txt`:
+
+```bash
+$ pip install -r requirements.txt
+```
+
+You might need to define pip3 if you can't run pip.
+
+---
+
 ## Converting from Python 2 -> 3.  
 
 There are multiple ways to achieve this. One is to install and use the `2to3` tool.
@@ -65,7 +103,7 @@ For Windows use the FC (File Compare) command:
 $ FC app.py app.py3
 ``` -->
 
-
+---
 
 ## Fix the shell script: `run_forever.sh`
 
