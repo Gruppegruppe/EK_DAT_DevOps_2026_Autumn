@@ -49,5 +49,15 @@ GROUP_REPOS = [
     "stack": [],
     "documentation": [],
     "sla": "",
-}
+},
+    {
+        "name": "GenZM0nks",
+        "gitLinks": ["https://github.com/GenZM0nks/AscendingMonk"],
+        "backend": "",
+        "frontend": "",
+        "monitoring": "",
+        "stack": [],
+        "documentation": [],
+        "sla": "",
+    }
 ]
