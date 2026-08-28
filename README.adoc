@@ -4,9 +4,9 @@
 
 link:00._Course_Material/00._Meta_Course_Material/about_the_course.md[About the course]
 
-link:00._Course_Material/00._Meta_Course_Material/about_the_exam.md[About the exam]
+// link:00._Course_Material/00._Meta_Course_Material/about_the_exam.md[About the exam]
 
-link:00._Course_Material/00._Meta_Course_Material/exam_project_requirements.md[Exam Project Requirements]
+// link:00._Course_Material/00._Meta_Course_Material/exam_project_requirements.md[Exam Project Requirements]
 
 // link:00._Course_Material/00._Meta_Course_Material/exam_report_requirements.md[Exam Report Requirements]
 
@@ -32,14 +32,18 @@ link:00._Course_Material/00._Meta_Course_Material/exam_project_requirements.md[E
 | Aug. 28th
 
 a| 
-// link:00._Course_Material/01._Introduction/02._Slides/01._course_introduction.md[Course Introduction]
-Course Introduction
+link:00._Course_Material/01._Introduction/02._Slides/01._course_introduction.md[Course Introduction]
+// Course Introduction
 
-// link:00._Course_Material/01._Introduction/02._Slides/02._the_legacy_project.md[The Legacy Project]
-The Legacy Project
+link:00._Course_Material/01._Introduction/02._Slides/02._the_legacy_project.md[The Legacy Project]
+// The Legacy Project
 
-// link:00._Course_Material/01._Introduction/02._Slides/03._conclusion.md[Conclusion]
-Conclusion
+link:00._Course_Material/01._Introduction/02._Slides/03._running_it_locally.md[Running it Locally]
+// Running it Locally
+
+
+link:00._Course_Material/01._Introduction/02._Slides/04._conclusion.md[Conclusion]
+// Conclusion
 
 a|
 link:00._Course_Material/01._Introduction/01._Assignments/01._Before/install_these.md[Install these]
@@ -52,17 +56,17 @@ link:00._Course_Material/01._Introduction/01._Assignments/01._Before/refresh_bas
 
 
 a| 
-// link:00._Course_Material/01._Introduction/01._Assignments/02._After/github_started.md[GitHub started]
+link:00._Course_Material/01._Introduction/01._Assignments/02._After/github_started.md[GitHub started]
 
-// link:00._Course_Material/01._Introduction/01._Assignments/02._After/create_a_pr_to_repositories_py.md[Create a PR to repositories.py]
+link:00._Course_Material/01._Introduction/01._Assignments/02._After/create_a_pr_to_repositories_py.md[Create a PR to repositories.py]
 
-// link:00._Course_Material/01._Introduction/01._Assignments/02._After/git_release.md[Create your first release on GitHub]
+link:00._Course_Material/01._Introduction/01._Assignments/02._After/git_release.md[Create your first release on GitHub]
 
-// link:00._Course_Material/01._Introduction/01._Assignments/02._After/upgrade_the_application.md[Upgrade the application]
+link:00._Course_Material/01._Introduction/01._Assignments/02._After/upgrade_the_application.md[Upgrade the application]
 
-// link:00._Course_Material/01._Introduction/01._Assignments/02._After/create_a_dependency_graph.md[Create a dependency graph]
+link:00._Course_Material/01._Introduction/01._Assignments/02._After/create_a_dependency_graph.md[Create a dependency graph]
 
-// link:00._Course_Material/01._Introduction/01._Assignments/02._After/problems_with_the_codebase.md[Problems with the codebase]
+link:00._Course_Material/01._Introduction/01._Assignments/02._After/problems_with_the_codebase.md[Problems with the codebase]
 
 a|  
 Can use basic `git` commands to clone, add, commit, push, and pull.
