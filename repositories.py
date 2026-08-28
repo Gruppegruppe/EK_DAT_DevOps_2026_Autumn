@@ -18,7 +18,17 @@ GROUP_REPOS = [
         "stack": [],
         "documentation": [],
         "sla": "",
-    },
+    }, 
+    { 
+        "name": "WeKnowXD",
+        "gitLinks": ["https://github.com/WeKnowXD/WeKnowXD_Project"],
+        "backend": "",
+        "frontend": "",
+        "monitoring": "",
+        "stack": [],
+        "documentation": [],
+        "sla": "",
+    }, 
 
     {
     "name": "MaxiKnows",
