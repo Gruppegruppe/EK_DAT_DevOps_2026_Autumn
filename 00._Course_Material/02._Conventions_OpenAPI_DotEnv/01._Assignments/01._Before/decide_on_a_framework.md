@@ -67,7 +67,7 @@ My recommendation here is to not use this course to learn a heavy web framework.
 
 ## Additional comments
 
-If your group i still undecided then you should at least have picked a handful of possible frameworks and a method for your group to agree on one.
+If your group is still undecided then you should at least have picked a handful of possible frameworks and a method for your group to agree on one.
 
 You don't have to decide on a database yet. Keep using the SQLite database for a couple of weeks until we cover the topic of databases.  
 
